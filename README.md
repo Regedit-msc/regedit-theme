@@ -4,6 +4,8 @@ A beeautiful purplish theme inspired by my need for a custom theme.😅
 
 ### Image🤩
 ![regedit-theme](regedit-theme.png)
+### Home Screen🤩
+![regedit-theme](2.png)
 
 
 
