@@ -1,6 +1,6 @@
 # README
 ## Regedit theme  😃
-A beeautiful purplish theme inspired by my need for a custom theme.😅 
+A beautiful purplish theme inspired by my need for a custom theme.😅 
 
 ### Image🤩
 ![regedit-theme](regedit-theme.png)
