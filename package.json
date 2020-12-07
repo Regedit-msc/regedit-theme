@@ -1,0 +1,23 @@
+{
+    "name": "regedit-theme",
+    "displayName": "ayomide's-theme",
+    "description": "A theme inspired by my need for a better theme.",
+    "publisher": "Emmanuel",
+    "license": "MIT",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "regedit-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/regedit-theme.json"
+            }
+        ]
+    }
+}
