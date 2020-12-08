@@ -5,7 +5,7 @@
 ### Image🤩
 ![regedit-theme-true-dark](2.png)
 ### Home Screen🤩
-![regedit-theme-true-dark](true-dark.png)
+![regedit-theme-true-dark](dark.png)
 
 
 
