@@ -3,9 +3,9 @@
    The dark / black😅 theme you have always wanted. 
 
 ### Image🤩
-![regedit-theme-true-dark](true-dark.png)
-### Home Screen🤩
 ![regedit-theme-true-dark](2.png)
+### Home Screen🤩
+![regedit-theme-true-dark](true-dark.png)
 
 
 
