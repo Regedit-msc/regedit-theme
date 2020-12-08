@@ -1,15 +1,15 @@
 # README
 ## Regedit theme  😃
-A beautiful purplish theme inspired by my need for a custom theme.😅 
+   The dark / black😅 theme you have always wanted. 
 
 ### Image🤩
-![regedit-theme](regedit-theme.png)
+![regedit-theme-true-dark](true-dark.png)
 ### Home Screen🤩
-![regedit-theme](2.png)
+![regedit-theme-true-dark](2.png)
 
 
 
- The installer is the **regedit-theme-0.0.1.vsix** file👻
+ The installer is the **regedit-theme-true-dark-0.0.1.vsix** file👻
 
 **Enjoy!**
 

@@ -1,10 +1,10 @@
 {
-	"name": "regedit-theme",
+	"name": "regedit-theme-true-dark",
 	"tokenColors": [
 	  {
 		"name": "Global settings",
 		"settings": {
-		  "background": "#0d081c",
+		  "background": "#000000",
 		  "foreground": "#FFFFFF"
 		}
 	  },
@@ -90,7 +90,7 @@
 		"name": "Comment",
 		"scope": "comment",
 		"settings": {
-		  "foreground": "#271854",
+		  "foreground": "#000000",
 		  "fontStyle": "italic"
 		}
 	  },
@@ -313,7 +313,7 @@
 		"name": "C# preprocessor",
 		"scope": "source.cs meta.preprocessor",
 		"settings": {
-		  "foreground": "#271854"
+		  "foreground": "#000000"
 		}
 	  },
 	  {
@@ -326,7 +326,7 @@
 	  {
 		"name": "Global settings",
 		"settings": {
-		  "background": "#0d081c",
+		  "background": "#000000",
 		  "foreground": "#FFFFFF"
 		}
 	  }
@@ -336,8 +336,8 @@
 	  "foreground": "#FFFFFF",
 	  "button.background": "#63ffed",
 	  "button.foreground": "#000000",
-	  "dropdown.background": "#140c2c",
-	  "input.background": "#140c2c",
+	  "dropdown.background": "#000000",
+	  "input.background": "#000000",
 	  "inputOption.activeBorder": "#63ffed",
 	  "list.activeSelectionBackground": "#63ffed80",
 	  "list.activeSelectionForeground": "#FFFFFF",
@@ -347,52 +347,52 @@
 	  "list.highlightForeground": "#63ffed",
 	  "list.hoverBackground": "#FFFFFF1a",
 	  "list.inactiveSelectionBackground": "#FFFFFF33",
-	  "activityBar.background": "#120b27",
+	  "activityBar.background": "#000000",
 	  "activityBar.dropBackground": "#63ffed80",
 	  "activityBarBadge.background": "#63ffed",
 	  "activityBarBadge.foreground": "#000000",
 	  "badge.background": "#63ffed",
 	  "badge.foreground": "#000000",
-	  "sideBar.background": "#0f0921",
-	  "sideBarSectionHeader.background": "#120b27",
+	  "sideBar.background": "#000000",
+	  "sideBarSectionHeader.background": "#000000",
 	  "editorGroup.dropBackground": "#63ffed80",
 	  "editorGroup.focusedEmptyBorder": "#63ffed",
-	  "editorGroupHeader.tabsBackground": "#0f0921",
+	  "editorGroupHeader.tabsBackground": "#000000",
 	  "tab.border": "#00000033",
 	  "tab.activeBorder": "#63ffed",
-	  "tab.inactiveBackground": "#120b27",
+	  "tab.inactiveBackground": "#000000",
 	  "tab.activeModifiedBorder": "#63ffed",
 	  "tab.inactiveModifiedBorder": "#3b998e",
 	  "tab.unfocusedActiveModifiedBorder": "#4fccbd",
 	  "tab.unfocusedInactiveModifiedBorder": "#3b998e",
-	  "editor.background": "#0d081c",
+	  "editor.background": "#000000",
 	  "editor.foreground": "#FFFFFF",
 	  "editorLineNumber.foreground": "#FFFFFF4d",
 	  "editorLineNumber.activeForeground": "#63ffed",
 	  "editor.lineHighlightBorder": "#FFFFFF1a",
 	  "editor.rangeHighlightBackground": "#FFFFFF0d",
-	  "editorWidget.background": "#0f0921",
-	  "editorHoverWidget.background": "#0f0921",
-	  "editorMarkerNavigation.background": "#0f0921",
+	  "editorWidget.background": "#000000",
+	  "editorHoverWidget.background": "#000000",
+	  "editorMarkerNavigation.background": "#000000",
 	  "peekView.border": "#63ffed",
-	  "peekViewEditor.background": "#0a0616",
-	  "peekViewResult.background": "#0f0921",
-	  "peekViewTitle.background": "#0d081c",
-	  "panel.background": "#0f0921",
+	  "peekViewEditor.background": "#000000",
+	  "peekViewResult.background": "#000000",
+	  "peekViewTitle.background": "#000000",
+	  "panel.background": "#000000",
 	  "panel.border": "#FFFFFF1a",
 	  "panelTitle.activeBorder": "#FFFFFF80",
 	  "panelTitle.inactiveForeground": "#FFFFFF80",
-	  "statusBar.background": "#0a0616",
+	  "statusBar.background": "#000000",
 	  "statusBar.debuggingBackground": "#63ffed",
 	  "statusBar.debuggingForeground": "#000000",
-	  "statusBar.noFolderBackground": "#0a0616",
+	  "statusBar.noFolderBackground": "#000000",
 	  "statusBarItem.activeBackground": "#63ffed80",
 	  "statusBarItem.hoverBackground": "#FFFFFF1a",
 	  "statusBarItem.remoteBackground": "#63ffed",
 	  "statusBarItem.remoteForeground": "#000000",
-	  "titleBar.activeBackground": "#0a0616",
+	  "titleBar.activeBackground": "#000000",
 	  "pickerGroup.border": "#FFFFFF1a",
-	  "debugToolBar.background": "#120b27",
+	  "debugToolBar.background": "#000000",
 	  "selection.background": "#63ffed"
 	}
   }

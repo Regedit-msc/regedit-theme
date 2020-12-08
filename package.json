@@ -1,7 +1,7 @@
 {
-    "name": "regedit-theme",
-    "displayName": "ayomide's-theme",
-    "description": "A theme inspired by my need for a better theme.",
+    "name": "regedit-theme-true-dark",
+    "displayName": "ayomide's-theme-true-dark",
+    "description": "A dark theme.",
     "publisher": "Emmanuel",
     "license": "MIT",
     "version": "0.0.1",
@@ -14,9 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "regedit-theme",
+                "label": "regedit-theme-true-dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/regedit-theme.json"
+                "path": "./themes/regedit-theme-true-dark.json"
             }
         ]
     }
